@@ -42,6 +42,7 @@ A collection of awesome things regarding React ecosystem.
     - [Template Engines](#template-engines)
     - [Maps](#maps)
     - [Charts](#charts)
+- [React Tutorials](#react-tutorials)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Community](#react-native-community)
@@ -96,6 +97,7 @@ A collection of awesome things regarding React ecosystem.
 - [Example Apps](#example-apps)
 - [Real Apps](#real-apps)
 - [Contribution](#contribution)
+- [React Resume](http://vpdeva.github.io)
 
 
 ---
